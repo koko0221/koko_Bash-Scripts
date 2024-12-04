@@ -1,4 +1,4 @@
-#koko's MAC script library
+# koko's MAC script library
 Language : [繁體中文](README.md) / [日本語](README_JA.md) / English / [簡体中文](README_SC.md)
 ## Notice
 ＊This article was translated using Google Translate
