@@ -1,7 +1,7 @@
 # koko的MAC脚本库
 Language : [繁体中文](README.md) / [日本语](README_JA.md) / [English](README_EN.md) / 简体中文
 ## 注意
-＊使用繁化姬进行转换
+＊內容使用繁化姬进行转换
 
 ＊部分使用AI编写
 ## ffmpeg相关
