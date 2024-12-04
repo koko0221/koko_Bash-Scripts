@@ -1,4 +1,6 @@
-# 繁體中文 / 日本語 / English / 簡体中文
+# koko的MAC腳本庫
+Language : 繁體中文 / [日本語](README_JA.me) / [English](README_EN.me) / [簡体中文](README_SC.me)
+
 ＊部分使用AI編寫
 ## ffmpeg相關
 - ### [目錄批量mp4轉flac](ffmpeg/mp4%20to%20flac.sh)
