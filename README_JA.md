@@ -1,15 +1,18 @@
 # koko的MAC腳本庫
-Language : 繁體中文 / [日本語](README_JA.md) / [English](README_EN.md) / [簡体中文](README_SC.md)
 
-＊部分使用AI編寫
-## ffmpeg相關
-- ### [目錄批量mp4轉flac](ffmpeg/mp4%20to%20flac.sh)
-  - 雖然將已經有損的音檔轉flac(16bit/48khz)意義不大，不過主要是迷信的部分w
-## IINA相關
-- ### [刪除不小心動到的設定](IINA/IINA_delete-keyword-lines.sh)
-  - 這邊做了一個簡易的實用工具，因為我自己使用IINA很常會動到音量延遲那些的，使用方法是在watch later的資料夾中開啟終端機，直接丟進去執行就行，也可以在腳本內依據自己的需求修正。
-  - 要切換到 `watch_later` 目錄，請使用以下命令：
+Language : [繁體中文](README.md) / 日本語 / [English](README_EN.md) / [簡体中文](README_SC.md)
+## 注意
+＊内容はBing翻訳を使用して翻訳した
+
+＊一部コードはAIによって作成されています
+## ffmpeg関連
+- ### [ディレクトリ内のmp4を一括でflacに変換](ffmpeg/mp4%20to%20flac.sh)
+  - 既に損失のある音声ファイルをflac（16bit/48khz）に変換することに大きな意味はありませんが、主に信仰の一部ですw
+## IINA関連
+- ### [誤って変更した設定を削除](IINA/IINA_delete-keyword-lines.sh)
+  - ここでは簡単な実用ツールを作成しました。私自身がIINAを使用しているときに音量遅延などをよく変更してしまうためです。使用方法は、watch laterフォルダ内でターミナルを開き、直接実行するだけです。また、スクリプト内で自分のニーズに応じて修正することもできます。
+  - `watch_later`ディレクトリに切り替えるには、以下のコマンドを使用してください：
     ```bash
     cd /Users/{USER NAME}/Library/Application\ Support/com.colliderli.iina/watch_later
     ```
-    請將 `{USER NAME}` 替換為你的用戶名。
+    `{USER NAME}`をあなたのユーザー名に置き換えてください。
