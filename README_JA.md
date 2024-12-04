@@ -1,4 +1,4 @@
-# koko的MAC腳本庫
+# koko の MAC スクリプト ライブラリ
 
 Language : [繁體中文](README.md) / 日本語 / [English](README_EN.md) / [簡体中文](README_SC.md)
 ## 注意
