@@ -1,5 +1,5 @@
 # koko的MAC腳本庫
-Language : 繁體中文 / [日本語](README_JA.me) / [English](README_EN.me) / [簡体中文](README_SC.me)
+Language : 繁體中文 / [日本語](README_JA.md) / [English](README_EN.md) / [簡体中文](README_SC.md)
 
 ＊部分使用AI編寫
 ## ffmpeg相關
